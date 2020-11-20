@@ -1,0 +1,8 @@
+/Command/bin/
+/Command/obj/
+/Command/Properties/
+/Command/App.config
+/Command/ClassDiagram*
+/Command/*csproj
+*.sln
+/.vs/
